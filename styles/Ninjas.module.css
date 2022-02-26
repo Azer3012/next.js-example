@@ -1,0 +1,14 @@
+.user{
+    padding: 5px 2px;
+    display: block;
+    background-color: #fff;
+    border-left: 8px solid #fff;
+    margin-bottom: 5px;
+}
+.user:hover{
+    border-left: 8px solid #4979ff;
+}
+
+.name{
+    padding-left: 15px;
+}
